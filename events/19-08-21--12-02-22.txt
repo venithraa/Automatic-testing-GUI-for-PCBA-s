@@ -1,0 +1,10 @@
+the program is started    12:02:22
+user/serial number is selected
+part no., serial no., are entered and saved 
+manual mode is selected
+DO18 is selected
+DO19 is selected
+DO19 is selected
+DO18 is selected
+DO7 is selected
+DO7 is selected

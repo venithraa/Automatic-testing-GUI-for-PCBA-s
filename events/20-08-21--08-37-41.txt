@@ -1,0 +1,7 @@
+the program is started    08:37:41
+user/serial number is selected
+part no., serial no., are entered and saved 
+automatic mode is selected
+start is selected
+test report is generated
+the program is stoped    08:37:41

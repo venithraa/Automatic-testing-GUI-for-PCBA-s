@@ -1,0 +1,10 @@
+the program is started    14:42:34
+user/serial number is selected
+part no., serial no., are entered and saved 
+manual mode is selected
+DO0 is and read back by DI0 
+DO1 is and read back by DI1 
+DO1 is and read back by DI1 
+DO0 is and read back by DI0 
+AO.!labelframe2.!entry is entered
+AO.!labelframe2.!entry is entered

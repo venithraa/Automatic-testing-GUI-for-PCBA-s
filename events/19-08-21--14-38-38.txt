@@ -1,0 +1,13 @@
+the program is started    14:38:38
+user/serial number is selected
+part no., serial no., are entered and saved 
+manual mode is selected
+DO0 is selected
+DO1 is selected
+DO0 is selected
+DO1 is selected
+manual mode is selected
+automatic mode is selected
+start is selected
+test report is generated
+the program is stoped    14:38:38

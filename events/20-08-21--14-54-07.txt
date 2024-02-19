@@ -1,0 +1,15 @@
+the program is started    14:54:07
+user/serial number is selected
+part no., serial no., are entered and saved 
+manual mode is selected
+DO26 is and read back by DI26 
+DO26 is and read back by DI26 
+DO27 is and read back by DI27 
+DO27 is and read back by DI27 
+AO.!labelframe2.!entry is entered
+AO.!labelframe2.!entry is entered
+AO.!labelframe2.!entry is entered
+AO.!labelframe2.!entry2 is entered
+AO.!labelframe2.!entry is entered
+AO.!labelframe2.!entry2 is entered
+AO.!labelframe2.!entry is entered

@@ -1,0 +1,13 @@
+the program is started    15:12:06
+user/serial number is selected
+part no., serial no., are entered and saved 
+manual mode is selected
+DO0 is and read back by DI0 
+DO1 is and read back by DI1 
+DO1 is and read back by DI1 
+DO0 is and read back by DI0 
+manual mode is selected
+automatic mode is selected
+start is selected
+test report is generated
+the program is stoped    15:12:06

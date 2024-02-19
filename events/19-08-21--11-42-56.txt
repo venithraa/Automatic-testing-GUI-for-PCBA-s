@@ -1,0 +1,18 @@
+the program is started    11:42:56
+user/serial number is selected
+part no., serial no., are entered and saved 
+automatic mode is selected
+automatic mode is selected
+manual mode is selected
+.!labelframe.!checkbuttonis selected
+.!labelframe.!checkbutton2is selected
+.!labelframe.!checkbutton3is selected
+.!labelframe.!checkbutton3is selected
+.!labelframe.!checkbutton2is selected
+.!labelframe.!checkbuttonis selected
+.!labelframe.!checkbutton3is selected
+.!labelframe.!checkbutton3is selected
+.!labelframe.!checkbutton2is selected
+.!labelframe.!checkbutton2is selected
+.!labelframe.!checkbuttonis selected
+.!labelframe.!checkbuttonis selected

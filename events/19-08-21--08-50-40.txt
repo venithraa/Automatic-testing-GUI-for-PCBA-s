@@ -1,0 +1,5 @@
+checkbutton is selected
+user/serial number is selected
+part no., serial no., are entered and saved 
+automatic mode is selected
+start is selected

@@ -1,0 +1,15 @@
+checkbutton is selected
+user/serial number is selected
+part no., serial no., are entered and saved 
+manual mode is selected
+checkbutton is selected
+checkbutton is selected
+checkbutton is selected
+checkbutton is selected
+checkbutton is selected
+checkbutton is selected
+checkbutton is selected
+checkbutton is selected
+checkbutton is selected
+checkbutton is selected
+AO is entered

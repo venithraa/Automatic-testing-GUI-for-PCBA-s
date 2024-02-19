@@ -1,0 +1,8 @@
+the program is started    15:28:31
+user/serial number is selected
+part no., serial no., are entered and saved 
+manual mode is selected
+DO1 is and read back by DI1 
+DO0 is and read back by DI0 
+DO1 is and read back by DI1 
+DO0 is and read back by DI0 
